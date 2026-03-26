@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "ClashGo",
+    "slug": "clashgo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/clashgo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/clashgo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f0f1e"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.clashgo.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/clashgo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.clashgo.app"
+    },
+    "web": {
+      "favicon": "./assets/clashgo.png",
+      "bundler": "metro"
+    }
+  }
+}
