@@ -260,7 +260,7 @@ This ensures sustainability and simplicity.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/mathurojus/solana-gamefi-main
+git clone https://github.com/OjusMathur/ClashGo
 cd solana-gamefi
 ```
 
